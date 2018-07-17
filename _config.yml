@@ -34,6 +34,7 @@ colors:
   turquoise: '#0fbfcf'
   ausgreen:  '#00843d'
   ausgold:   '#ffcd00'
+  psblue:    '#012456'
 
 kramdown:
   auto_ids:  false
